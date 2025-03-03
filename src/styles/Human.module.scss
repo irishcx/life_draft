@@ -1,0 +1,17 @@
+.human-container {
+    width: 128px;
+    height: 192px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid gray;
+    border-radius: 8px;
+    background-color: #e2e8f0;
+    text-align: center;
+  
+    .probability-text {
+      color: #4a5568;
+      font-size: 14px;
+    }
+  }
+  
